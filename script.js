@@ -4,4 +4,4 @@ const myCountry = "Nigeria";
 
 alert("My name is " + myName)
 alert("My height is " + myHeight)
-alert("My country is" + myCountry)
+alert("My country is " + myCountry)
