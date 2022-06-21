@@ -1,5 +1,7 @@
-const name = "Dapo Adedire";
-const height = "190 cm";
-const country = "Nigeria";
+const myName = "Dapo Adedire";
+const myHeight = "190 cm";
+const myCountry = "Nigeria";
 
-alert("Name:  " + name + "\nHeight:  " + height  + "\nCountry:  " + country)
+alert(myName)
+alert(myHeight)
+alert(myCountry)
